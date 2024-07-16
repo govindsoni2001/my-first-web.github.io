@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contaner{
+    max-width: 1180px;
+    margin-inline: auto;
+}
